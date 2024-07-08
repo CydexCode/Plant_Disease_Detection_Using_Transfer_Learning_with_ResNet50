@@ -24,3 +24,5 @@ This project aims to automate the detection of plant diseases using deep learnin
 -Evaluation: Evaluate model performance using validation data and visualize training metrics.
 
 -Prediction: Use the trained model for real-time disease detection on new images.
+
+[Read more](https://medium.com/@cydexcode/plant-disease-detection-using-transfer-learning-with-resnet50-c02dd6326123)
