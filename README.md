@@ -2,7 +2,7 @@
 
 This project aims to automate the detection of plant diseases using deep learning techniques. By leveraging transfer learning with the ResNet50 model pretrained on ImageNet, I have developed a robust system capable of identifying diseases in plant leaves from images. The model is fine-tuned and optimized to classify leaves as healthy or diseased with high accuracy.
 
-![Screenshot 1](https://github.com/CydexCode/Plant_Disease_Detection_Using_Transfer_Learning_with_ResNet50/assets/112784979/99ebfa7d-70ad-4591-90f6-326bf9654828) ![Screenshot 2](https://github.com/CydexCode/Plant_Disease_Detection_Using_Transfer_Learning_with_ResNet50/assets/112784979/0e6eed98-ee38-40a3-834e-8091682601c5)
+![Screenshot 2024-07-08 080300](https://github.com/CydexCode/Plant_Disease_Detection_Using_Transfer_Learning_with_ResNet50/assets/112784979/2bdc7881-81e7-435d-9432-5642e17d7110)
 
 
 ### Key Features:
