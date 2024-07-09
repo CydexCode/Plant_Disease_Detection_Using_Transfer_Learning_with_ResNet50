@@ -4,6 +4,8 @@ This project aims to automate the detection of plant diseases using deep learnin
 
 ![Screenshot 2024-07-08 080300](https://github.com/CydexCode/Plant_Disease_Detection_Using_Transfer_Learning_with_ResNet50/assets/112784979/2bdc7881-81e7-435d-9432-5642e17d7110)
 
+### Dataset :
+https://drive.google.com/file/d/1kA_JWhHQhyzzuzlpzppK2nNTtbiR2N77/view
 
 ### Key Features:
 
